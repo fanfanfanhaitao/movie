@@ -1,0 +1,1 @@
+<view class="plot data-v-19968813"><view class="separate data-v-19968813"></view><view class="f-text data-v-19968813">剧情介绍:</view><view class="desc data-v-19968813">{{details.plotDesc}}</view><view class="p-separate data-v-19968813"></view><view class="f-text data-v-19968813">演职人员:</view></view>
